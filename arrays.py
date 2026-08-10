@@ -1089,4 +1089,5 @@ TREATS = [
     "a legitimate business interest",
     "a few more headmates",
     "the Megillat Cham-Ed",
+    "an unexpected day off work",
 ]
