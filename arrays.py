@@ -1089,5 +1089,7 @@ TREATS = [
     "a legitimate business interest",
     "a few more headmates",
     "the Megillat Cham-Ed",
+    '{"alt_wording": "True", "text": "can be exploded"}',
+    "their wish granted",
     "an unexpected day off work",
 ]
